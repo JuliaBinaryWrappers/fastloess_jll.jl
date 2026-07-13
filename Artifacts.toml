@@ -1,0 +1,80 @@
+[[fastloess]]
+arch = "aarch64"
+git-tree-sha1 = "3a88901b8812c9542cc0a4e5bd6d3f14d114d988"
+os = "macos"
+
+    [[fastloess.download]]
+    sha256 = "d0159dbd37d145d5a4ce3c2a0c408d293fe88f59e317b856c00217548bc2e4db"
+    url = "https://github.com/JuliaBinaryWrappers/fastloess_jll.jl/releases/download/fastloess-v0.9.0+0/fastloess.v0.9.0.aarch64-apple-darwin.tar.gz"
+[[fastloess]]
+arch = "aarch64"
+git-tree-sha1 = "25b8cdfb278c32a2b83c4544bba2d5e346c77137"
+libc = "glibc"
+os = "linux"
+
+    [[fastloess.download]]
+    sha256 = "728672009d2e6b374669000c162870191d4b9dbbe6fdbb8cc7b1f32b82704f74"
+    url = "https://github.com/JuliaBinaryWrappers/fastloess_jll.jl/releases/download/fastloess-v0.9.0+0/fastloess.v0.9.0.aarch64-linux-gnu.tar.gz"
+[[fastloess]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "8bec6262c3e08c57150d1728ff9ac32b25f80fb5"
+libc = "glibc"
+os = "linux"
+
+    [[fastloess.download]]
+    sha256 = "8e1d1990ab4cb3770a5c2750013177277fda6e49e1e29d8fb7eafaf5a1df03f3"
+    url = "https://github.com/JuliaBinaryWrappers/fastloess_jll.jl/releases/download/fastloess-v0.9.0+0/fastloess.v0.9.0.armv6l-linux-gnueabihf.tar.gz"
+[[fastloess]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "bc9042eb819e0fd258f3b2c033232c522087e78e"
+libc = "glibc"
+os = "linux"
+
+    [[fastloess.download]]
+    sha256 = "3b949bb1361a1cf66bcb79b59a08d4b29d29d0013cc8c14fe268f39bcfda967e"
+    url = "https://github.com/JuliaBinaryWrappers/fastloess_jll.jl/releases/download/fastloess-v0.9.0+0/fastloess.v0.9.0.armv7l-linux-gnueabihf.tar.gz"
+[[fastloess]]
+arch = "i686"
+git-tree-sha1 = "7e3994249df09808eef9f915dea485908f4718f1"
+libc = "glibc"
+os = "linux"
+
+    [[fastloess.download]]
+    sha256 = "1b141e0a0fce1b734c372e91a5b7a4ddade9fcc4fc99a9eb6b4620750207dbe7"
+    url = "https://github.com/JuliaBinaryWrappers/fastloess_jll.jl/releases/download/fastloess-v0.9.0+0/fastloess.v0.9.0.i686-linux-gnu.tar.gz"
+[[fastloess]]
+arch = "powerpc64le"
+git-tree-sha1 = "2eb878ca28ff7af5b61dd8f729a34f4692def459"
+libc = "glibc"
+os = "linux"
+
+    [[fastloess.download]]
+    sha256 = "e879c5ac809abc33031852de879f2c13fa8cfa28a551c653c435b31a2acb696b"
+    url = "https://github.com/JuliaBinaryWrappers/fastloess_jll.jl/releases/download/fastloess-v0.9.0+0/fastloess.v0.9.0.powerpc64le-linux-gnu.tar.gz"
+[[fastloess]]
+arch = "x86_64"
+git-tree-sha1 = "3da051ad50f6d12a1578b59dd848f3280de7663b"
+os = "macos"
+
+    [[fastloess.download]]
+    sha256 = "b2ff9c28fb4ddac8aebee3c96f17351b440b791bf842b5e775eb5a68e905f399"
+    url = "https://github.com/JuliaBinaryWrappers/fastloess_jll.jl/releases/download/fastloess-v0.9.0+0/fastloess.v0.9.0.x86_64-apple-darwin.tar.gz"
+[[fastloess]]
+arch = "x86_64"
+git-tree-sha1 = "1989483df680b9b1a9bc50f4f84dabddfee67716"
+libc = "glibc"
+os = "linux"
+
+    [[fastloess.download]]
+    sha256 = "33d1479e7fb0f8303667b6951d5a2c77f386d4a0e2e5332ce711cefd9f38506e"
+    url = "https://github.com/JuliaBinaryWrappers/fastloess_jll.jl/releases/download/fastloess-v0.9.0+0/fastloess.v0.9.0.x86_64-linux-gnu.tar.gz"
+[[fastloess]]
+arch = "x86_64"
+git-tree-sha1 = "4bae39388f2bd5e8ec8df4ad240df35a8e0d4f12"
+os = "windows"
+
+    [[fastloess.download]]
+    sha256 = "6ab202d630da0134231630c64bece26ab9a4a3a33fc47624b79d6f2edf500c23"
+    url = "https://github.com/JuliaBinaryWrappers/fastloess_jll.jl/releases/download/fastloess-v0.9.0+0/fastloess.v0.9.0.x86_64-w64-mingw32.tar.gz"
