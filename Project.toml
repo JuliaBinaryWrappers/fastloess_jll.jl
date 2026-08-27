@@ -1,6 +1,6 @@
 name = "fastloess_jll"
 uuid = "4babd41b-8569-5769-b094-a2a3f6511883"
-version = "1.0.0+0"
+version = "1.1.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
